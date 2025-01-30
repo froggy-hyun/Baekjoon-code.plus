@@ -9,7 +9,7 @@
 그 결과로 sum += (n//i) * i 라는 결과가 나오게 된다. '''
 
 # import sys
-# input = sys.stdin.readline()
+# input = sys.stdin.readline
 
 n = int(input())
 sum = 0
